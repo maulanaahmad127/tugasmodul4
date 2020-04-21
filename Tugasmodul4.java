@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.IOException;
-
+//test
 public class Tugasmodul4 {
     
     static int menu1(int i){
